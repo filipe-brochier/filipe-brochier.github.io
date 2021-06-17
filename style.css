@@ -1,0 +1,11 @@
+@charset "UTF-8";
+
+body{
+    font-family: Helvetica, sans-serif;
+    font-size: 14px;
+    text-align: justify;
+}
+
+#links-iniciais{
+    text-align: right;
+}
