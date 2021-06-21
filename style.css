@@ -10,7 +10,7 @@ body{
     font-family: Montserrat, sans-serif;
     font-size: 14px;
     text-align: justify;
-    background-color: #ffffff;
+    background-color: azure;
 }
 
 h1{
@@ -43,21 +43,25 @@ nav a:hover{
     font-weight: 500;
 }
 
-#foto-filipe{
-    text-align: center;
+.about-me-section{
+    display:flex;
     
 }
 
-.list-type{
-    text-align: left;
+.profile-picture{
+    padding: 10px 10px;
+    background-color: #03045e;
+    margin: 70px 250px 70px 250px;
+    width: 300px;
 }
 
-.index{
-    text-align: left;
-    text-decoration: none;
-    font-size: 1.1em;
+.about-me-description{
+    
+    margin: 70px 150px 70px 0px;
+    padding: x;
+    text-align: center;
+    border-style: groove;
 }
-
 .special-emphasis{
     color: #0077b6;
 }
